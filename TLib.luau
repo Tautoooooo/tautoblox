@@ -2,4 +2,4 @@ local test = function(wow)
   print(wow)
 end
 
-print("guh")
+print("guh1")
